@@ -2,7 +2,7 @@
 
 This project consists of three versions of a website, each representing a different stage in the development process for Module 293.
 
-## Overview
+## Features
 
 1. **Teil 1**: A simple sample website, serving as the basic foundation of the project.
 2. **Teil 2**: A modified template version, demonstrating the application of changes to a pre-existing design.
